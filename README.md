@@ -116,7 +116,7 @@ I-am-vishalmaurya@github
 
 If you have any questions about front-end web development, feel free to <a href="mailto:vishalmaurya3112@gmail.com">contact me through email</a> me.
 Connect with me on Linkedin
-<a href="[https://www.linkedin.com/in/i-am-vishalmaurya/](https://www.linkedin.com/in/iamvishalmaurya/)">LinkedIn</a>.
+<a href="https://www.linkedin.com/in/iamvishalmaurya/">LinkedIn</a>.
 
   </td>
   <td width="50%" valign="top">
